@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @OPiElix
 - 👀 I’m interested in programming // science //
      maths
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C++ on Raspbian
+- 💞️ I’m looking to collaborate on everything with programming (except python)
 - Reach me on catalin.tanasse09@gmail.com
 
 <!---
